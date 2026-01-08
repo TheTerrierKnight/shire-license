@@ -1,0 +1,34 @@
+SHIRE OSS License
+
+The following Permissions are granted by this license:
+    - You may use this software for non-commercial or commercial usage
+    - You may freely modify the software for internal use only
+    - You may create content or provide reviews either non-monetized or monetized on social media platforms or spaces
+    - You may share the offical link of this repo to external sites
+
+The following is disallowed by this license:
+    - You may not resell, redistribute or bargain this product without explicit permission
+    - You may not mislead or confuse people about the product when reviewing or providing feedback
+    - Any attributions to this product MUST link back to this repo and declare the provided license within
+    - Usage of "link shorteners" or other forms of monetization when linking back to this product is prohibited
+    - The Export Control notice must be complied with when using the product
+
+EXPORT CONTROL NOTICE:
+    THIS PRODUCT AS LICENSED BY THE SHIRE LICENSE IS PROTECTED BY EXPORT CONTROL AND CANNOT BE DISTRIBUTED TO THE FOLLOWING PARTIES:
+        - Malicious Actors/Cybercrime Agencies
+        - State/Government Agencies from Iran, China, Central Russia or North Korea
+        - Any Company operating in Mainland China or other territorial waters declared dangerous or hostile by the United States Government
+        - Other persons or bodies declared by this license that are listed
+    THIS SECTION CAN BE BYPASSED IF GRANTED PERMISSION BY THE HOLDER OF THIS REPO OR IF YOU ARE CONSIDERED AN OFFICIAL GOVERNMENT AGENCY BY THE UNITED STATES
+
+WARRANTY:
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+
+The below copyright notice and this license shall be included in substantial portions of the Software and is protected against removal when distributed:
+    Copyright (c) 2026 TheTerrierKnight
